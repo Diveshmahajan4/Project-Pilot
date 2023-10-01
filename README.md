@@ -1,17 +1,22 @@
 # Project Pilot - A Project Management Application
 
-Project Pilot is a project management application fo freelancers where you can manage all your ongoing and add clients to each projects.
-You can perform all the CRUD operation in this application. This webapp is made using React.js, GraphQL and MongoDB.
+<p>Project Pilot is a project management application fo freelancers where you can manage all your ongoing and add clients to each projects.
+You can perform all the CRUD operation in this application. This webapp is made using React.js, GraphQL and MongoDB.</p>
+
+<h3>TechStack:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,mongodb,graphql)](https://skillicons.dev)
+
 <br/>
 <img src="./temp/page1.png" alt="page1" />
 <br/>
 
 # How to run the Project 🚀
 
-1. Clone this Repo
+1. Fork and Clone the Repo
 
 ```bash
-      git clone "git@github.com:Diveshmahajan4/Project-Pilot.git"
+      git clone "https://github.com/<username>/Project-Pilot.git"
 ```
 
 2. Installing Node Modules
@@ -30,7 +35,7 @@ You can perform all the CRUD operation in this application. This webapp is made 
 ```bash
       NODE_ENV = 'development'
       PORT = 5000
-      MONGO_URI= 'mongodb+srv://<username>:<password>@cluster0.kylhyes.mongodb.net/mgmt_db?retryWrites=true&w=majority'
+      MONGO_URI= ''
 ```
 
 5. Now, you're ready to go! 🚀
